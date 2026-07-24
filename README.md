@@ -2,7 +2,7 @@
 
 Create engaging Facebook posts automatically using OpenAI and n8n.
 
-## Features
+## 🚀 Features
 
 - AI-generated Facebook posts
 - Ready-to-import n8n workflow
@@ -11,13 +11,22 @@ Create engaging Facebook posts automatically using OpenAI and n8n.
 - Documentation included
 - Instant download
 
-## Perfect For
+## 🎯 Perfect For
 
-- Marketers
+- Digital Marketers
 - Agencies
-- Small businesses
-- Content creators
+- Small Businesses
+- Content Creators
 
-## Buy Premium Version
+## 📦 What You'll Receive
+
+- n8n Workflow (.json)
+- Setup Guide
+- Documentation
+
+## 🔗 Buy Premium Version
 
 https://payhip.com/TSAutomation
+
+---
+Created by TS Automation
