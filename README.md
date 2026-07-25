@@ -1,30 +1,23 @@
 # AI Facebook Content Generator for n8n
 
-Create engaging Facebook posts automatically using OpenAI and n8n.
+Automatically generate engaging Facebook posts using OpenAI and n8n.
 
-## 🚀 Features
+## Features
 
 - AI-generated Facebook posts
-- Ready-to-import n8n workflow
+- Ready-to-import workflow
 - OpenAI compatible
 - Beginner friendly
 - Documentation included
-- Instant download
 
-## 🎯 Perfect For
+## Perfect For
 
-- Digital Marketers
+- Digital marketers
 - Agencies
-- Small Businesses
-- Content Creators
+- Small businesses
+- Content creators
 
-## 📦 What You'll Receive
-
-- n8n Workflow (.json)
-- Setup Guide
-- Documentation
-
-## 🔗 Buy Premium Version
+## Buy Premium Version
 
 https://payhip.com/TSAutomation
 
