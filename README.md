@@ -1,4 +1,4 @@
-# AI-Facebook-Content-Generator.json
+# AI-Facebook-Content-Generator
 
 Automatically generate engaging Facebook posts using OpenAI and n8n.
 
