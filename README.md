@@ -21,6 +21,12 @@ Process:
 - Beginner friendly
 - Documentation included
 
+## Requirements
+
+- n8n account
+- OpenAI API key
+- Required credentials configured by user
+
 ## 🔑 Required Credentials
 
 This workflow requires:
